@@ -42,4 +42,4 @@ and then navigate through console options to set the following files to be used.
 
 When a program is run from the runner.java file, a menu appears on the console.
 All required functions can be performed using this menu and following the instructions
-in each step
+in each step.
