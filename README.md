@@ -9,6 +9,7 @@ various similarity calculations such as cosine similarity, dot product, and Eucl
 distance.
 
 It supports:
+
  Loading and managing word embeddings: Import embeddings from a file to
 represent words as high-dimensional vectors.
 
