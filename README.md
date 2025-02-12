@@ -29,6 +29,8 @@ exploring semantic connections in natural language processing.
 
 To Run
 
+Download Glove Embeddings
+
 From console at .jar file directory:
 Then open the ./SimilaritySearchWithWordEmbeddings.jar
 Then open the source,
@@ -39,6 +41,24 @@ and then navigate through console options to set the following files to be used.
 3. DistanceCalculator.java
 4. ConsoleColour.java and
 5. Runner.java
+
+7. Follow the interactive menu to provide:
+   
+ Menu: (Enter your choice : 1 - 6)  
+ 
+(1) Specify Embedding File (Embeddings file path)
+
+(2) Specify an Output File (default: ./output.txt)
+
+(3) Enter a Word or Text
+
+(4) Configure Options
+
+(5) Calculate Distance
+
+(6) Quit
+
+
 
 When a program is run from the runner.java file, a menu appears on the console.
 All required functions can be performed using this menu and following the instructions
