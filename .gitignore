@@ -1,0 +1,29 @@
+# Ignore compiled class files
+*.class
+
+# Ignore the bin folder (compiled output)
+bin/
+
+# Ignore jar files
+*.jar
+
+# Ignore log files and temporary files
+*.log
+*.tmp
+*.swp
+*~
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific configuration files
+*.iml
+.idea/
+.vscode/
+*.project
+*.classpath
+.settings/
+
+# Optionally ignore the models folder (if it contains large or external files)
+models/
