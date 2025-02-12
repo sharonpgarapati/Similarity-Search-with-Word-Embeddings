@@ -11,11 +11,14 @@ distance.
 It supports:
  Loading and managing word embeddings: Import embeddings from a file to
 represent words as high-dimensional vectors.
+
  Searching for similar words: Retrieve words most similar to a given word based
 on specified distance metrics.
+
  Mathematical operations with word vectors: Perform vector arithmetic
 (addition and subtraction) on word embeddings to explore semantic
 relationships.
+
  Console-based interaction: Users interact with the system through a
 command-line interface, selecting options, inputting text and viewing results.
 Users interact with the application through a command line interface to configure
